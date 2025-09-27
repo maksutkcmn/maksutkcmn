@@ -6,7 +6,7 @@ Student at Kocaeli 42
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [maksutkcmn@gmail.com](mailto:maksutkcmn@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning Go Lang
 
 ### Skills
 
